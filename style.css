@@ -208,8 +208,8 @@ nav a.active::after {
 
 .profile-pic {
   position: relative;
-  width: 400px;
-  height: 460px;
+  width: 300px;
+  height: 260px;
   border-radius: 20px;
   box-shadow: 0 0 20px var(--theme-color);
   background: url('profile.jpg') center/cover no-repeat;
@@ -507,3 +507,4 @@ color: #aaa;
   background: #fff; 
   box-shadow: 0 0 20px var(--theme-color); 
 }
+
